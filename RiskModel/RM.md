@@ -3,13 +3,13 @@
 ### 1. Define Risk Metrics: 
 Determine the risk metrics that are relevant to your portfolio or investment strategy. Common risk metrics include standard deviation, value-at-risk (VaR), conditional value-at-risk (CVaR), beta, and maximum drawdown. Choose the metrics that align with your risk preferences and investment objectives.
 
-### Data Collection: 
+### 2. Data Collection: 
 Gather historical data for the assets or instruments in your portfolio. This data typically includes historical prices, returns, volatility, and other relevant factors that influence risk. Ensure that the data is accurate, reliable, and covers an adequate time period to capture different market conditions.
 
-### Data Preprocessing: 
+### 3. Data Preprocessing: 
 Clean and preprocess the collected data. This involves handling missing values, removing outliers, and adjusting for any biases or data inconsistencies. Transform the data into a format suitable for analysis, such as calculating returns, standardizing variables, or normalizing data.
 
-### Risk Modeling Techniques: 
+### 4. Risk Modeling Techniques: 
 Select appropriate risk modeling techniques based on your portfolio characteristics and risk metrics. Common techniques include:
 
 #### a.Variance-Covariance Approach: 
@@ -24,11 +24,11 @@ Generate a large number of simulated scenarios to estimate the potential outcome
 #### d.Factor Models: 
 Utilize factor-based models that capture the systematic risk factors influencing your portfolio. Examples include the Capital Asset Pricing Model (CAPM) or multi-factor models such as the Fama-French three-factor model or the Carhart four-factor model.
 
-### Risk Analysis and Assessment: 
+### 5. Risk Analysis and Assessment: 
 Analyze the risk model outputs to understand the risk characteristics of your portfolio. Assess the portfolio's exposure to different risk factors, identify potential concentration risks, and measure the portfolio's sensitivity to market movements.
 
-### Risk Management Strategies: 
+### 6. Risk Management Strategies: 
 Based on the risk analysis, develop risk management strategies to mitigate and control risk. This may include diversification, hedging using derivatives, position sizing, or adjusting the asset allocation to align with risk preferences and investment objectives.
 
-### Regular Monitoring and Reassessment: 
+### 7. Regular Monitoring and Reassessment: 
 Continuously monitor the portfolio's risk exposure and performance. Update the risk model periodically to reflect changes in market conditions or the addition/removal of assets from the portfolio. Regularly reassess the effectiveness of risk management strategies and make adjustments as needed.
