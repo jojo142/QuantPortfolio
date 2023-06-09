@@ -1,4 +1,4 @@
-Moving average crossover strategy:
+### Moving average crossover strategy:
 import pandas as pd
 
 # Load historical price data into a DataFrame
@@ -33,7 +33,7 @@ portfolio_value = initial_capital if position == 0 else position * df['Close'].i
 
 print(f"Final Portfolio Value: {portfolio_value:.2f}")
 
-Mean Reversion Strategy:
+### Mean Reversion Strategy:
 import pandas as pd
 
 df = pd.read_csv('historical_data.csv')
@@ -50,7 +50,7 @@ df.loc[df['Close'] < mean - std, 'Signal'] = 1  # Buy signal
 # Backtest the strategy and calculate portfolio value
 # ...
 
-Breakout Strategy:
+### Breakout Strategy:
 import pandas as pd
 
 df = pd.read_csv('historical_data.csv')
@@ -68,7 +68,7 @@ df.loc[df['Close'] < df['RollingLow'] * (1 - breakout_threshold), 'Signal'] = -1
 # Backtest the strategy and calculate portfolio value
 # ...
 
-MACD Strategy:
+### MACD Strategy:
 import pandas as pd
 import talib
 
