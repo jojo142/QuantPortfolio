@@ -20,9 +20,9 @@ Investigating the design and functioning of market structures, such as exchanges
 Examining the strategies and impact of high-frequency traders (HFTs) on market dynamics, liquidity provision, and price efficiency. This involves studying order routing algorithms, latency arbitrage, market making strategies, and the role of HFTs in market liquidity.
 
 --- 
-I need to :
+# Basicallu I need to :
 
-## Gain a Strong Foundation in Finance: 
+### Gain a Strong Foundation in Finance: 
 Develop a solid understanding of financial markets, trading mechanisms, and investment instruments. Acquire knowledge about order types, market participants, liquidity, and price formation processes.
 
 ### Study Market Microstructure Theory: 
