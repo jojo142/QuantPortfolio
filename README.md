@@ -1,17 +1,17 @@
 # QuantPortfolio
 
 ## My guide to build a quant portfolio as follows: 
-Building a quantitative portfolio to showcase your skills and projects related to finance and investing requires-
+Building a quantitative portfolio to showcase my skills and projects related to finance and investing requires-
 <br>&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;      1. Planning, 
 <br>&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;      2. Execution, and 
 <br> &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;     3. Documentation. 
 
 #### Identify Relevant Projects: 
-Determine the types of projects you want to include in your portfolio. These could be related to algorithmic trading, portfolio optimization, risk modeling, pricing models, statistical analysis of financial data, or any other area that demonstrates your quantitative abilities in the context of finance.
+Determine the types of projects I want to include in your portfolio. These could be related to algorithmic trading, portfolio optimization, risk modeling, pricing models, statistical analysis of financial data, or any other area that demonstrates your quantitative abilities in the context of finance.
 #### Define Objectives: 
-Clearly define the objectives and scope of each project. Identify the problem you aim to solve, the methodology you plan to use, and the expected outcomes. This will help you stay focused and organized throughout the project.
+Clearly define the objectives and scope of each project. Identify the problem I aim to solve, the methodology I plan to use, and the expected outcomes. This will help I stay focused and organized throughout the project.
 #### Gather Data: 
-Collect relevant financial data to support your analysis. This could include historical price data, financial statements, economic indicators, or any other data that is necessary for your specific project. Ensure the data is reliable and from reputable sources.
+Collect relevant financial data to support my analysis. This could include historical price data, financial statements, economic indicators, or any other data that is necessary for your specific project. Ensure the data is reliable and from reputable sources.
 #### Apply Quantitative Techniques: 
 Use your mathematical, statistical, and programming skills to analyze the data and develop models or algorithms. Implement appropriate quantitative techniques such as regression analysis, time series analysis, Monte Carlo simulations, optimization algorithms, or machine learning algorithms, depending on the nature of your project.
 #### Document Methodology and Results: 
