@@ -1,6 +1,6 @@
 # QuantPortfolio
 
-## Step by Step guide to build a quant portfolio as follows: 
+## My guide to build a quant portfolio as follows: 
 Building a quantitative portfolio to showcase your skills and projects related to finance and investing requires-
 <br>&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;      1. Planning, 
 <br>&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;      2. Execution, and 
