@@ -6,29 +6,6 @@ Building a quantitative portfolio to showcase my skills and projects related to 
 <br>&ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;      2. Execution, and 
 <br> &ensp;&thinsp;&ensp;&thinsp;&ensp;&thinsp;     3. Documentation. 
 
-#### Identify Relevant Projects: 
-Determine the types of projects I want to include in my portfolio. These could be related to algorithmic trading, portfolio optimization, risk modeling, pricing models, statistical analysis of financial data, or any other area that demonstrates my quantitative abilities in the context of finance.
-#### Define Objectives: 
-Clearly define the objectives and scope of each project. Identify the problem I aim to solve, the methodology I plan to use, and the expected outcomes. This will help I stay focused and organized throughout the project.
-#### Gather Data: 
-Collect relevant financial data to support my analysis. This could include historical price data, financial statements, economic indicators, or any other data that is necessary for your specific project. Ensure the data is reliable and from reputable sources.
-#### Apply Quantitative Techniques: 
-Use mathematical, statistical, and programming skills to analyze the data and develop models or algorithms. Implement appropriate quantitative techniques such as regression analysis, time series analysis, Monte Carlo simulations, optimization algorithms, or machine learning algorithms, depending on the nature of my project.
-#### Document Methodology and Results: 
-Clearly document my methodology, including the steps i followed, the assumptions made, and the reasoning behind my choices. Document the results of my analysis and provide visualizations, charts, or graphs to illustrate key findings.
-#### Explain Insights and Interpretation: 
-Provide clear explanations of the insights derived from my analysis and how they are relevant to the problem i are addressing. Discuss the implications and potential applications of my findings in the context of finance and investing.
-#### Highlight Technical Skills: 
-In addition to the project outcomes, emphasize the technical skills you utilized during each project. Describe the programming languages, libraries, or software you used (such as Python, R, MATLAB, or specialized finance libraries). This will showcase your proficiency in applying quantitative techniques to real-world financial data.
-#### Create a Professional Presentation: 
-Compile your projects into a well-organized and visually appealing portfolio. Use a consistent format and structure for each project, including an introduction, methodology, results, insights, and a conclusion. Ensure that the portfolio is concise, easily readable, and visually engaging.
-#### Share Your Portfolio: 
-Create a digital version of my portfolio that can be easily shared with potential employers or displayed on professional platforms like LinkedIn or personal websites. 
-I can also consider creating a personal blog or contributing to relevant online communities to showcase your work and gain exposure.
-#### Continuously Update and Improve: 
-Keep adding new projects to portfolio as i develop more skills and gain experience. Regularly update and refine my existing projects to reflect new insights or advancements in my field. This demonstrates my commitment to ongoing learning and improvement.
-
-
 ## Strategies: 
 
 ### 1. Algorithmic Trading Strategy: 
