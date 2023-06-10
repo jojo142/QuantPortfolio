@@ -29,6 +29,6 @@ Conduct an event study to assess the impact of specific events (such as earnings
 ### 7. Sentiment Analysis: 
 Use natural language processing (NLP) techniques to analyze news articles, social media data, or financial reports to gauge market sentiment. Assess the sentiment's impact on asset prices or build sentiment-based trading strategies.
 
-### 8. Machine Learning Applications: 
+### 8. [Machine Learning Applications:](MachineLearningApplication) 
 Apply machine learning algorithms(linear regression, RF, Gradient boosting, SVM, RNN, LSTM, DNN, Reinforcement Learning) to solve finance-related problems, such as credit risk assessment, fraud detection, or investment recommendation systems. Use supervised or unsupervised learning techniques to make predictions or generate insights.
 
