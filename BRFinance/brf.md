@@ -4,7 +4,6 @@
 Select the appropriate technology stack based on the platform's requirements, including front-end, back-end, and database technologies. Common choices include HTML/CSS/JavaScript for the front-end, a framework like React or Angular for the user interface, Node.js or Java for the back-end, and a database like MySQL or MongoDB.
 
 #### Design the Database Schema: 
-Plan and design the database schema to store and organize the financial data. Identify the necessary tables, fields, and relationships based on the specific requirements of BlackRock. Consider efficient indexing, normalization, and data integrity constraints.
 
 ##### 1. User Table:
 - User ID (Primary Key)
