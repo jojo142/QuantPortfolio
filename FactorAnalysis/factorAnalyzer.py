@@ -1,7 +1,6 @@
 import pandas as pd
-from factor_analyzer import FactorAnalyzer
-import pandas as pd
 import numpy as np
+from factor_analyzer import FactorAnalyzer
 from sklearn.decomposition import FactorAnalysis
 from sklearn.preprocessing import StandardScaler
 
