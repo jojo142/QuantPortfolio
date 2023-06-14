@@ -1,6 +1,6 @@
 # QuantPortfolio
-## TradeSense ( Quantitative Finance App- currently under development)
-TradeSense is a powerful and user-friendly quantitative finance app designed to provide comprehensive market insights and portfolio management tools. This GitHub repository contains the source code and project files for the TradeSense app. It allows users to track real-time market data, analyze investment opportunities, and make informed trading decisions. 
+## IntelliTrade( Quantitative Finance App- currently under development)
+A powerful and user-friendly quantitative finance app designed to provide comprehensive market insights and portfolio management tools. This GitHub repository contains the source code and project files for the app. It allows users to track real-time market data, analyze investment opportunities, and make informed trading decisions. 
 <img width="1422" alt="Screenshot 2023-06-14 at 4 04 45 PM" src="https://github.com/jojo142/QuantPortfolio/assets/76130563/05fd0d10-43be-4680-8ce1-dce28498eb69">
 
 #### Desktop Version of the prototype: 
