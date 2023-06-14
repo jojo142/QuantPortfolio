@@ -1,12 +1,11 @@
 # QuantPortfolio
 ## TradeSense ( Quantitative Finance App- currently under development)
-TradeSense is a powerful and user-friendly quantitative finance app designed to provide comprehensive market insights and portfolio management tools. This GitHub repository contains the source code and project files for the TradeSense app. It allows users to track real-time market data, analyze investment opportunities, and make informed trading decisions.
-#### Mobile version of the prototype: 
+TradeSense is a powerful and user-friendly quantitative finance app designed to provide comprehensive market insights and portfolio management tools. This GitHub repository contains the source code and project files for the TradeSense app. It allows users to track real-time market data, analyze investment opportunities, and make informed trading decisions. 
 <img width="1422" alt="Screenshot 2023-06-14 at 4 04 45 PM" src="https://github.com/jojo142/QuantPortfolio/assets/76130563/05fd0d10-43be-4680-8ce1-dce28498eb69">
 
 #### Desktop Version of the prototype: 
 <img width="1400" alt="Screenshot 2023-06-14 at 4 05 36 PM" src="https://github.com/jojo142/QuantPortfolio/assets/76130563/04ee633f-943d-48bf-a824-b629a3e27758">
-
+I used figma template by @martinawolna. To see the full version as pdf email <a href="samiyanur142@gmail.com">me<aa>
 
 # Features:
 - Real-time market data updates and financial news aggregation
@@ -16,10 +15,6 @@ TradeSense is a powerful and user-friendly quantitative finance app designed to 
 - Historical data analysis and performance tracking
 - Integrated trading platform connectivity for executing trades
 - User-friendly interface with intuitive navigation and responsive design
-
-Here is the Mobile version of the Prototype: [TradeSenseMobile.pdf](https://github.com/jojo142/QuantPortfolio/files/11750050/TradeSenseMobile.pdf)
-
-
 
 
 ## Breaking into the Quant world:  
