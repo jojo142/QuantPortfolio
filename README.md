@@ -5,7 +5,7 @@ TradeSense is a powerful and user-friendly quantitative finance app designed to 
 
 #### Desktop Version of the prototype: 
 <img width="1400" alt="Screenshot 2023-06-14 at 4 05 36 PM" src="https://github.com/jojo142/QuantPortfolio/assets/76130563/04ee633f-943d-48bf-a824-b629a3e27758">
-I used figma template by @martinawolna. To see the full version as pdf email <a href="samiyanur142@gmail.com">me<aa>
+I used figma template by @martinawolna. To see the full version as pdf email [me](mailto:samiyanur142@gmail.com)
 
 # Features:
 - Real-time market data updates and financial news aggregation
