@@ -49,3 +49,9 @@ Use natural language processing (NLP) techniques to analyze news articles, socia
 ### 8. [Machine Learning Applications:](MachineLearningApplication) 
 Apply machine learning algorithms(linear regression, RF, Gradient boosting, SVM, RNN, LSTM, DNN, Reinforcement Learning) to solve finance-related problems, such as credit risk assessment, fraud detection, or investment recommendation systems. Use supervised or unsupervised learning techniques to make predictions or generate insights.
 
+# JPMorgan Chase Quantitative Research Virtual Experience Program
+
+I finished the Virtual Quantitative Research Virtual program.
+
+<img width="550" alt="Screenshot 2023-08-02 at 10 40 23 PM" src="https://github.com/jojo142/QuantPortfolio/assets/76130563/b9103df4-262a-46be-b456-4b05c53bd47e">
+
